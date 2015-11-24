@@ -19,6 +19,9 @@
   ],
   "author": "James Kyle <me@thejameskyle.com>",
   "license": "BSD-3-Clause",
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "a11y-focus-scope": "^1.1.0",
     "a11y-focus-store": "^1.0.0",
